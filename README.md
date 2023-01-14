@@ -39,6 +39,13 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 
 # :moneybag: [Donate](https://saweria.co/arthasyarif)
 
+# :briefcase: Barang & Bahan
+- Arduino Uno
+- Buzzer
+- Relay 1 Chanel ( Bisa Di Tambah Sesuai Kebutuhan )
+- Kebel Male & Female
+- Lampu Arus Ac
+
 
 # :mag: Ilustrasi Arduino
 
