@@ -42,6 +42,8 @@ To keep this collection up-to-date need contributors who can add more Program Ar
 # :briefcase: Barang & Bahan
 - Arduino Uno
 - Buzzer
+- Rfid Card
+- Rfid Reader
 - Relay 1 Chanel ( Bisa Di Tambah Sesuai Kebutuhan )
 - Kebel Male & Female
 - Lampu Arus Ac
